@@ -1,6 +1,5 @@
 # 🌟 Modern Website with Interactive Gallery & Smart Navigation
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Responsive](https://img.shields.io/badge/responsive-yes-success)
 
@@ -137,23 +136,6 @@ graph TD
     G --> H[User Interaction]
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit your changes: `git commit -m 'Add AmazingFeature'`
-4. Push to the branch: `git push origin feature/AmazingFeature`
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🌟 Acknowledgments
-
-- Thanks to all contributors
-- Inspired by modern web design principles
-- Built with ❤️ for the developer community
 
 ---
 
